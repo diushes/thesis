@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "971056464608",
+    "project_id": "quizzle-be5a8",
+    "storage_bucket": "quizzle-be5a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971056464608:android:967f89ea362bbcc61b0685",
+        "android_client_info": {
+          "package_name": "com.example.quizzledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971056464608-3koat8cblt33ufr7eccs76v6iosedksi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABDvSzQ6dscL_xa9_Gdk-PRxJtu58GB_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971056464608-3koat8cblt33ufr7eccs76v6iosedksi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971056464608-hgkeq6tfn5frlv3nlh33vcbscvqgcoff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codefox.quizzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
